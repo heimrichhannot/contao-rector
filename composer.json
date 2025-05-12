@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "HeimrichHannot\\ContaoRector\\": "src/"
+      "HeimrichHannot\\Rector\\": "src/"
     }
   }
 }
